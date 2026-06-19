@@ -1,23 +1,10 @@
-// import React from 'react'
-
-// const navbar = () => {
-//   return (
-//     <div>this is a nav</div>
-//   )
-// }
-
-// export default navbar
-
 import React from 'react'
 
-const Navbar = () => {
+const navbar = () => {
   return (
-    <div>
-        <div className="nav">
-            This is nav
-        </div>
-    </div>
+    <div>this is a nav</div>
   )
 }
 
-export default Navbar
+export default navbar
+
